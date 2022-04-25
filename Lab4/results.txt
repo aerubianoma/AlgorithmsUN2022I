@@ -1,0 +1,7 @@
+Here are the results of 8 hours: 
+for k = 5 Pn is : 5
+for k = 6 Pn is : 7
+for k = 7 Pn is : 8
+for k = 8 Pn is : 9
+for k = 9 Pn is : 10
+for k = 10 Pn is : 11
